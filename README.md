@@ -1,0 +1,2 @@
+# firstrepojava
+java training repository
